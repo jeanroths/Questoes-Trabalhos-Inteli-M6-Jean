@@ -11,3 +11,6 @@ Este é um código que controla um robô tartaruga (turtle) em ROS (Robot Operat
 O código faz a tartaruga seguir um trajeto que forma um desenho. A variável "counter_" é usada para determinar qual comando de movimento deve ser executado em cada chamada da função "move_turtle". O valor da velocidade linear (linear.x) e angular (angular.z) são definidos para cada ponto do trajeto, causando a movimentação da tartaruga de acordo com as coordenadas especificadas.
 
 Por fim, o código usa a função "spin" do ROS para manter o nó em execução até que o programa seja encerrado.
+
+## Caminho para o código
+O código em python "Turtle1.py" para a movimentação da tartaruga encontra-se na pasta Scripts deste repositório.
