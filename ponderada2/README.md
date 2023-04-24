@@ -1,5 +1,5 @@
 <img src="../assets/logo-inteli.png" alt="Logo do Inteli"/>
 
-# Ponderada 4
+# Ponderada 2
 
 Em construção...
