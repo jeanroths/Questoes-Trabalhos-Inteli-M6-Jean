@@ -8,7 +8,7 @@ Crie um script em Python capaz de interagir com o nó de simulação do turtlesi
 
 Este é um código que controla um robô tartaruga (turtle) em ROS (Robot Operating System). Ele cria um nó (node) chamado "turtle_controller" que publica comandos de movimento para a tartaruga no tópico "/turtle1/cmd_vel". A cada 1 segundo (definido pelo timer), o método "move_turtle" é chamado, que define os comandos de movimento (linear e angular) para a tartaruga.
 
-O código faz a tartaruga seguir um trajeto que forma um desenho. A variável "counter_" é usada para determinar qual comando de movimento deve ser executado em cada chamada da função "move_turtle". O valor da velocidade linear (linear.x) e angular (angular.z) são definidos para cada ponto do trajeto, causando a movimentação da tartaruga de acordo com as coordenadas especificadas.
+O código faz a tartaruga seguir um trajeto que forma o desenho das "Relíquias da Morte". A variável "counter_" é usada para determinar qual comando de movimento deve ser executado em cada chamada da função "move_turtle". O valor da velocidade linear (linear.x) e angular (angular.z) são definidos para cada ponto do trajeto, causando a movimentação da tartaruga de acordo com as coordenadas especificadas.
 
 Por fim, o código usa a função "spin" do ROS para manter o nó em execução até que o programa seja encerrado.
 
