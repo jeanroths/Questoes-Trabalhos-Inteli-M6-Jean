@@ -14,3 +14,6 @@ Por fim, o código usa a função "spin" do ROS para manter o nó em execução 
 
 ## Caminho para o código
 O código em python "Turtle1.py" para a movimentação da tartaruga encontra-se na pasta Scripts deste repositório.
+
+## Link para o vídeo no Youtube
+<a href = "https://youtu.be/emMkc10NFZc"> Vídeo da simulação do ambiente </a>
