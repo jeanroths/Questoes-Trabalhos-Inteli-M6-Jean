@@ -13,7 +13,7 @@ O código faz a tartaruga seguir um trajeto que forma um desenho. A variável "c
 Por fim, o código usa a função "spin" do ROS para manter o nó em execução até que o programa seja encerrado.
 
 ## Caminho para o código
-O código em python "Turtle1.py" para a movimentação da tartaruga encontra-se na pasta Scripts deste repositório.
+O código em python "Turtle1.py" para a movimentação da tartaruga encontra-se na pasta 'venv/Scripts' deste repositório.
 
 ## Link para o vídeo no Youtube
 <a href = "https://youtu.be/emMkc10NFZc"> Vídeo da simulação do ambiente </a>
